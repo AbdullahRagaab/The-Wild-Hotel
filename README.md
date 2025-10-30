@@ -153,6 +153,8 @@ Notes: Vite requires env variables used in client code to be prefixed with `VITE
 
 <img width="1316" height="623" alt="Image" src="https://github.com/user-attachments/assets/6c5596b0-bb70-4268-8d8e-9df8439b0b25" />
 
+<img width="1315" height="625" alt="Image" src="https://github.com/user-attachments/assets/cb1d1e8e-50a9-45fe-a4df-a316f618607d" />
+
 <img width="1317" height="630" alt="Image" src="https://github.com/user-attachments/assets/574466e1-bf6f-4a1b-8a1f-9a9a1acd0727" />
 
 <img width="1312" height="621" alt="Image" src="https://github.com/user-attachments/assets/8e54d024-c8a8-4acf-9ae8-c1c679ff9984" />
