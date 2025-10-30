@@ -129,25 +129,31 @@ The app integrates with Supabase. Create a `.env` file (or set system environmen
 
 Notes: Vite requires env variables used in client code to be prefixed with `VITE_`.
 
-## Deployment notes
 
-- Netlify is a recommended target for static hosting. This repo includes `netlify.toml` for SPA routing redirects.
-- Ensure environment variables (`VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`) are set in your Netlify site settings.
+## ScreenShoots
+<img width="1266" height="619" alt="Image" src="https://github.com/user-attachments/assets/63404342-31b6-46cb-b818-82a38b46152d" />
 
-## Contributing
+<img width="1270" height="626" alt="Image" src="https://github.com/user-attachments/assets/dacceadc-324a-471f-8411-20cde0b89799" />
 
-Small contributions are welcome. Suggested process:
+<img width="1294" height="577" alt="Image" src="https://github.com/user-attachments/assets/445ff9c3-40a0-47f7-8200-37e995af3e07" />
 
-1. Fork the repository and create a branch for your change.
-2. Run `npm install` and `npm run dev` to test locally.
-3. Open a pull request with a clear description of changes.
+<img width="1323" height="554" alt="Image" src="https://github.com/user-attachments/assets/fe085f09-f364-488a-8c27-9a4ea02cf902" />
 
-Please keep changes scoped, add tests for new behaviors where appropriate, and follow the project's code style.
+<img width="1319" height="635" alt="Image" src="https://github.com/user-attachments/assets/069b7175-1016-42dd-a0b1-a82734157f93" />
 
-## License
+<img width="1320" height="630" alt="Image" src="https://github.com/user-attachments/assets/c56261a9-f180-4e67-b0ce-bfdbbf62c878" />
 
-Add your preferred license here (e.g., MIT) or consult the project owner.
+<img width="1316" height="616" alt="Image" src="https://github.com/user-attachments/assets/dd3ecc28-3fe5-4da5-8a4b-0df42747c7d5" />
 
-## Contact
+<img width="1285" height="617" alt="Image" src="https://github.com/user-attachments/assets/1d0e49f3-4b85-4d58-ad5a-1ae3fd7917c9" />
 
-If you want help customizing this README (badges, screenshots, more deployment docs) or adding CI/CD, tell me what you'd like and I can add it.
+<img width="1339" height="569" alt="Image" src="https://github.com/user-attachments/assets/8f94a015-acab-4a33-b8bc-0d12357a7036" />
+
+<img width="1324" height="609" alt="Image" src="https://github.com/user-attachments/assets/3bbf4904-4f91-43fa-b171-70413beb4191" />
+
+<img width="1316" height="623" alt="Image" src="https://github.com/user-attachments/assets/6c5596b0-bb70-4268-8d8e-9df8439b0b25" />
+
+<img width="1317" height="630" alt="Image" src="https://github.com/user-attachments/assets/574466e1-bf6f-4a1b-8a1f-9a9a1acd0727" />
+
+<img width="1312" height="621" alt="Image" src="https://github.com/user-attachments/assets/8e54d024-c8a8-4acf-9ae8-c1c679ff9984" />
+
